@@ -1,0 +1,61 @@
+
+h2
+{
+    color: antiquewhite;   
+    margin-top: 300px;
+    text-align: center;
+    background-color:#00BFFF;
+    height: 30px;
+    padding: 8px;
+   
+}
+
+   
+#form1 
+{
+
+   border-color:#00BFFF ;
+   border-radius: 25px;
+   padding: 7px;
+   padding-left: 25px;
+   padding-right: 25px;
+
+}
+   
+
+#form2
+{
+   border-style: solid;    
+   border-color:#00BFFF ;
+   border-radius: 25px;
+   padding: 7px;
+   padding-left: 25px;
+   padding-right: 25px;
+   
+}
+   
+
+#form3
+{
+   color: white;
+   border-style: solid;    
+   border-color:#00BFFF ;
+   border-radius: 25px;
+   background-color:#00BFFF;
+   padding-left: 27px;
+   padding-right: 25px;
+   
+}
+   
+   
+   
+::placeholder 
+{
+   text-align: center;
+   font-size: 15px;
+   opacity: 0.5;
+      
+}
+   
+   
+   
